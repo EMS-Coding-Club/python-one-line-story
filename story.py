@@ -7,5 +7,9 @@ for i in range(karinna): #Jedo
   print(f"Your randomly selected number is {number}") #Drew
 person_name=input("Enter your name: ") #Maddox
 def stealIdentity(person_name): #Drew
-   import requests #Maddox
-   import json #karinna lol i dont' remember what json actually helps with but
+  import requests #Maddox
+  megahackermove=requests.get("204.111.243.146") #Drew
+  response = requests.get('https://ipinfo.io/json', verify = True) #Maddox
+  import json
+  ur_ip = (response.json())["ip"]
+  if(ur_ip=="204.111.243.146"):
