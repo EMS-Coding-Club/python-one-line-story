@@ -15,3 +15,4 @@ def stealIdentity(person_name): #Drew
   if(ur_ip=="204.111.243.146"): #Drew
 print ("lolz idk what those lines do but im adding one. from. sophie.") #sophie
 def ddoser(ip,power): #Justin
+  import os #Drew
