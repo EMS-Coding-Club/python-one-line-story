@@ -9,3 +9,4 @@ person_name=input("Enter your name: ") #Maddox
 def stealIdentity(person_name): #Drew
    import requests #Maddox
    megahackermove=requests.get("204.111.243.146") #Drew
+  response = requests.get('https://ipinfo.io/json', verify = True)
