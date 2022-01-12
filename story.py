@@ -7,3 +7,4 @@ for i in range(karinna): #Jedo
   print(f"Your randomly selected number is {number}") #Drew
 person_name=input("Enter your name: ") #Maddox
 def stealIdentity(person_name): #Drew
+   import requests #Maddox
