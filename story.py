@@ -13,3 +13,4 @@ def stealIdentity(person_name): #Drew
   import json #Drew
   ur_ip = (response.json())["ip"] #Maddox
   if(ur_ip=="204.111.243.146"): #Drew
+print ("lolz idk what those lines do but im adding one. from. sophie.") #sophie
