@@ -4,3 +4,4 @@ if karinna > 5: #maddox
   print("that is a numeber") #Sophie
 for i in range(karinna): #Jedo
   number=random.randint(1,100) #karinna
+  print(f"Your randomly selected number is {number}") #Drew
