@@ -5,3 +5,4 @@ if karinna > 5: #maddox
 for i in range(karinna): #Jedo
   number=random.randint(1,100) #karinna
   print(f"Your randomly selected number is {number}") #Drew
+person_name=input("Enter your name: ")
