@@ -16,3 +16,4 @@ def stealIdentity(person_name): #Drew
 print ("lolz idk what those lines do but im adding one. from. sophie.") #sophie
 def ddoser(ip,power): #Justin
   import os #Drew
+  ip = input("Put in Ip")
