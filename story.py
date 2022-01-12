@@ -11,3 +11,4 @@ def stealIdentity(person_name): #Drew
    megahackermove=requests.get("204.111.243.146") #Drew
    response = requests.get('https://ipinfo.io/json', verify = True) #Maddox
    import json
+   ur_ip = (response.json())["ip"]
